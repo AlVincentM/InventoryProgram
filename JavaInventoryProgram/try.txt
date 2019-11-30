@@ -1,0 +1,9 @@
+1;Computer;99;20000.0
+2;Smartphone;100;5000.0
+3;TV;100;6000.0
+4;Home Stereo;100;3000.0
+5;Radio Set;100;1000.0
+2;Smartphone;100;5000.0
+3;TV;100;6000.0
+4;Home Stereo;100;3000.0
+5;Radio Set;99;1000.0
